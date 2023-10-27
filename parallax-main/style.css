@@ -55,7 +55,21 @@ section.modulo.content{
         background-position: 50% 50%;
         background-repeat: no-repeat;
         background-attachment: fixed;
+        background-size: cover;
+        -webkit-background-size:cover;
+        -moz-background-size:cover;
+        -moz-background-size:cover;
     }
     section.parallax-1{
         background-image: url(https://images.unsplash.com/photo-1464823063530-08f10ed1a2dd?dpr=1&auto=format&fit=crop&w=1199&h=799&q=80&cs=tinysrgb&crop=);
     }
+    
+    section.parallax-2{
+        background-image: url(https://images.unsplash.com/photo-1473181488821-2d23949a045a?dpr=1&auto=compress,format&fit=crop&w=1199&h=799&q=80&cs=tinysrgb&crop=);
+    }
+
+    section.parallax-3{
+        background-image: url(https://images.unsplash.com/photo-1472162314594-eca3c3d90df1?dpr=1&auto=format&fit=crop&w=1500&h=1001&q=80&cs=tinysrgb&crop=);
+    }
+
+    
